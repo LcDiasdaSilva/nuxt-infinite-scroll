@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Infinite Scroll Nuxt 3 + Vue Use
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+DEMO [Nuxt Infinite Scroll](https://nuxt-infinite-scroll.pages.dev/).
 
 ## Setup
 
